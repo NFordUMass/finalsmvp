@@ -1,13 +1,13 @@
-### Title
+## Title
 
-#### Directory
+### Directory
 
 point to notebook, source files, and latex
 
-#### Development
+### Development
 
 we use python
 
-#### Next Steps
+### Next Steps
 
 ...
