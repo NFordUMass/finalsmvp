@@ -1,43 +1,43 @@
 ,Year,Team,MVP,Player,mvp,prob_mvp,Binary,Correct
 0,2024,Boston Celtics,Jaylen Brown,Jayson Tatum,False,0.84,1.0,False
 1,2024,Boston Celtics,Jaylen Brown,Jaylen Brown,True,0.01,0.0,False
-9,2023,Denver Nuggets,Nikola Jokic,Jamal Murray,False,0.51,1.0,False
-25,2021,Milwaukee Bucks,Giannis Antetokounmpo,Khris Middleton,False,0.87,1.0,False
-33,2020,Los Angeles Lakers,LeBron James,Anthony Davis,False,0.91,1.0,False
-41,2019,Toronto Raptors,Kawhi Leonard,Pascal Siakam,False,0.63,1.0,False
-72,2015,Golden State Warriors,Andre Iguodala,Stephen Curry,False,0.92,1.0,False
-113,2010,Los Angeles Lakers,Kobe Bryant,Pau Gasol,False,0.86,1.0,False
-121,2009,Los Angeles Lakers,Kobe Bryant,Pau Gasol,False,0.9,1.0,False
-129,2008,Boston Celtics,Paul Pierce,Ray Allen,False,0.82,1.0,False
-137,2007,San Antonio Spurs,Tony Parker,Tim Duncan,False,0.67,1.0,False
-152,2005,San Antonio Spurs,Tim Duncan,Tim Duncan,True,0.12,0.0,False
-153,2005,San Antonio Spurs,Tim Duncan,Manu GinÃ³bili,False,0.93,1.0,False
-160,2004,Detroit Pistons,Chauncey Billups,Richard Hamilton,False,0.92,1.0,False
-185,2001,Los Angeles Lakers,Shaquille O'Neal,Kobe Bryant,False,0.63,1.0,False
-193,2000,Los Angeles Lakers,Shaquille O'Neal,Kobe Bryant,False,0.65,1.0,False
-208,1998,Chicago Bulls,Michael Jordan,Michael Jordan,True,0.09,0.0,False
-217,1997,Chicago Bulls,Michael Jordan,Scottie Pippen,False,0.87,1.0,False
-265,1991,Chicago Bulls,Michael Jordan,Scottie Pippen,False,0.52,1.0,False
-280,1989,Detroit Pistons,Joe Dumars,Joe Dumars,True,0.43,0.0,False
-288,1988,Los Angeles Lakers,James Worthy,James Worthy,True,0.06,0.0,False
-289,1988,Los Angeles Lakers,James Worthy,Magic Johnson,False,0.97,1.0,False
-304,1986,Boston Celtics,Larry Bird,Kevin McHale,False,0.63,1.0,False
-313,1985,Los Angeles Lakers,Kareem Abdul-Jabbar,James Worthy,False,0.58,1.0,False
-340,1982,Los Angeles Lakers,Magic Johnson,Magic Johnson,True,0.04,0.0,False
-345,1981,Boston Celtics,Cedric Maxwell,Larry Bird,False,0.63,1.0,False
-352,1980,Los Angeles Lakers,Magic Johnson,Kareem Abdul-Jabbar,False,1.0,1.0,False
-361,1979,Seattle SuperSonics,Dennis Johnson,Dennis Johnson,True,0.12,0.0,False
-362,1979,Seattle SuperSonics,Dennis Johnson,Jack Sikma,False,0.88,1.0,False
-368,1978,Washington Bullets,Wes Unseld,Elvin Hayes,False,0.76,1.0,False
-374,1978,Washington Bullets,Wes Unseld,Wes Unseld,True,0.0,0.0,False
-378,1977,Portland Trail Blazers,Bill Walton,Bob Gross,False,0.72,1.0,False
-385,1976,Boston Celtics,Jo Jo White,Dave Cowens,False,0.99,1.0,False
-402,1974,Boston Celtics,John Havlicek,Jo Jo White,False,0.57,1.0,False
-408,1973,New York Knicks,Willis Reed,Bill Bradley,False,0.77,1.0,False
-409,1973,New York Knicks,Willis Reed,Walt Frazier,False,0.87,1.0,False
-410,1973,New York Knicks,Willis Reed,Willis Reed,True,0.0,0.0,False
-425,1971,Milwaukee Bucks,Kareem Abdul-Jabbar,Oscar Robertson,False,0.58,1.0,False
-432,1970,New York Knicks,Willis Reed,Willis Reed,True,0.0,0.0,False
-433,1970,New York Knicks,Willis Reed,Dave DeBusschere,False,0.57,1.0,False
-435,1970,New York Knicks,Willis Reed,Walt Frazier,False,0.98,1.0,False
-440,1969,Boston Celtics,Jerry West,John Havlicek,False,1.0,1.0,False
+2,2023,Denver Nuggets,Nikola Jokic,Jamal Murray,False,0.51,1.0,False
+3,2021,Milwaukee Bucks,Giannis Antetokounmpo,Khris Middleton,False,0.87,1.0,False
+4,2020,Los Angeles Lakers,LeBron James,Anthony Davis,False,0.91,1.0,False
+5,2019,Toronto Raptors,Kawhi Leonard,Pascal Siakam,False,0.63,1.0,False
+6,2015,Golden State Warriors,Andre Iguodala,Stephen Curry,False,0.92,1.0,False
+7,2010,Los Angeles Lakers,Kobe Bryant,Pau Gasol,False,0.86,1.0,False
+8,2009,Los Angeles Lakers,Kobe Bryant,Pau Gasol,False,0.9,1.0,False
+9,2008,Boston Celtics,Paul Pierce,Ray Allen,False,0.82,1.0,False
+10,2007,San Antonio Spurs,Tony Parker,Tim Duncan,False,0.67,1.0,False
+11,2005,San Antonio Spurs,Tim Duncan,Tim Duncan,True,0.12,0.0,False
+12,2005,San Antonio Spurs,Tim Duncan,Manu GinÃ³bili,False,0.93,1.0,False
+13,2004,Detroit Pistons,Chauncey Billups,Richard Hamilton,False,0.92,1.0,False
+14,2001,Los Angeles Lakers,Shaquille O'Neal,Kobe Bryant,False,0.63,1.0,False
+15,2000,Los Angeles Lakers,Shaquille O'Neal,Kobe Bryant,False,0.65,1.0,False
+16,1998,Chicago Bulls,Michael Jordan,Michael Jordan,True,0.09,0.0,False
+17,1997,Chicago Bulls,Michael Jordan,Scottie Pippen,False,0.87,1.0,False
+18,1991,Chicago Bulls,Michael Jordan,Scottie Pippen,False,0.52,1.0,False
+19,1989,Detroit Pistons,Joe Dumars,Joe Dumars,True,0.43,0.0,False
+20,1988,Los Angeles Lakers,James Worthy,James Worthy,True,0.06,0.0,False
+21,1988,Los Angeles Lakers,James Worthy,Magic Johnson,False,0.97,1.0,False
+22,1986,Boston Celtics,Larry Bird,Kevin McHale,False,0.63,1.0,False
+23,1985,Los Angeles Lakers,Kareem Abdul-Jabbar,James Worthy,False,0.58,1.0,False
+24,1982,Los Angeles Lakers,Magic Johnson,Magic Johnson,True,0.04,0.0,False
+25,1981,Boston Celtics,Cedric Maxwell,Larry Bird,False,0.63,1.0,False
+26,1980,Los Angeles Lakers,Magic Johnson,Kareem Abdul-Jabbar,False,1.0,1.0,False
+27,1979,Seattle SuperSonics,Dennis Johnson,Dennis Johnson,True,0.12,0.0,False
+28,1979,Seattle SuperSonics,Dennis Johnson,Jack Sikma,False,0.88,1.0,False
+29,1978,Washington Bullets,Wes Unseld,Elvin Hayes,False,0.76,1.0,False
+30,1978,Washington Bullets,Wes Unseld,Wes Unseld,True,0.0,0.0,False
+31,1977,Portland Trail Blazers,Bill Walton,Bob Gross,False,0.72,1.0,False
+32,1976,Boston Celtics,Jo Jo White,Dave Cowens,False,0.99,1.0,False
+33,1974,Boston Celtics,John Havlicek,Jo Jo White,False,0.57,1.0,False
+34,1973,New York Knicks,Willis Reed,Bill Bradley,False,0.77,1.0,False
+35,1973,New York Knicks,Willis Reed,Walt Frazier,False,0.87,1.0,False
+36,1973,New York Knicks,Willis Reed,Willis Reed,True,0.0,0.0,False
+37,1971,Milwaukee Bucks,Kareem Abdul-Jabbar,Oscar Robertson,False,0.58,1.0,False
+38,1970,New York Knicks,Willis Reed,Willis Reed,True,0.0,0.0,False
+39,1970,New York Knicks,Willis Reed,Dave DeBusschere,False,0.57,1.0,False
+40,1970,New York Knicks,Willis Reed,Walt Frazier,False,0.98,1.0,False
+41,1969,Boston Celtics,Jerry West,John Havlicek,False,1.0,1.0,False

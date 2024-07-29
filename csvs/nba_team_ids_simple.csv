@@ -1,0 +1,62 @@
+,Season,League,BBRef_Team_Name,BBRef_Team_Abbreviation,Current_BBRef_Team_Name,Current_BBRef_Team_Abbreviation,ESPN_Current_Link_ID,NBA_Current_Link_ID,Spotrac_Current_Link_ID
+0,2019,NBA,Atlanta Hawks,ATL,Atlanta Hawks,ATL,ATL,1610612737,atlanta-hawks
+1,1967,NBA,St. Louis Hawks,STL,Atlanta Hawks,ATL,ATL,1610612737,atlanta-hawks
+2,1954,NBA,Milwaukee Hawks,MLH,Atlanta Hawks,ATL,ATL,1610612737,atlanta-hawks
+3,1950,NBA,Tri-Cities Blackhawks,TRI,Atlanta Hawks,ATL,ATL,1610612737,atlanta-hawks
+4,2019,NBA,Brooklyn Nets,BRK,Brooklyn Nets,BRK,BKN,1610612751,brooklyn-nets
+5,2011,NBA,New Jersey Nets,NJN,Brooklyn Nets,BRK,BKN,1610612751,brooklyn-nets
+6,1976,NBA,New York Nets,NYN,Brooklyn Nets,BRK,BKN,1610612751,brooklyn-nets
+7,1967,ABA,New Jersey Americans,NJA,Brooklyn Nets,BRK,BKN,1610612751,brooklyn-nets
+8,2019,NBA,Boston Celtics,BOS,Boston Celtics,BOS,BOS,1610612738,boston-celtics
+9,2019,NBA,Charlotte Hornets,CHA,Charlotte Hornets,CHA,CHA,1610612766,charlotte-hornets
+10,2013,NBA,Charlotte Bobcats,CHA,Charlotte Hornets,CHA,CHA,1610612766,charlotte-hornets
+11,2019,NBA,Cleveland Cavaliers,CLE,Cleveland Cavaliers,CLE,CLE,1610612739,cleveland-cavaliers
+12,2019,NBA,Chicago Bulls,CHI,Chicago Bulls,CHI,CHI,1610612741,chicago-bulls
+13,2019,NBA,Dallas Mavericks,DAL,Dallas Mavericks,DAL,DAL,1610612742,dallas-mavericks
+14,2019,NBA,Denver Nuggets,DEN,Denver Nuggets,DEN,DEN,1610612743,denver-nuggets
+15,1973,ABA,Denver Rockets,DNR,Denver Nuggets,DEN,DEN,1610612743,denver-nuggets
+16,2019,NBA,Detroit Pistons,DET,Detroit Pistons,DET,DET,1610612765,detroit-pistons
+17,1956,NBA,Fort Wayne Pistons,FTW,Detroit Pistons,DET,DET,1610612765,detroit-pistons
+18,2019,NBA,Golden State Warriors,GSW,Golden State Warriors,GSW,GSW,1610612744,golden-state-warriors
+19,1970,NBA,San Francisco Warriors,SFW,Golden State Warriors,GSW,GSW,1610612744,golden-state-warriors
+20,1961,NBA,Philadelphia Warriors,PHW,Golden State Warriors,GSW,GSW,1610612744,golden-state-warriors
+21,2019,NBA,Houston Rockets,HOU,Houston Rockets,HOU,HOU,1610612745,houston-rockets
+22,1970,NBA,San Diego Rockets,SDR,Houston Rockets,HOU,HOU,1610612745,houston-rockets
+23,2019,NBA,Indiana Pacers,IND,Indiana Pacers,IND,IND,1610612754,indiana-pacers
+24,2019,NBA,Los Angeles Clippers,LAC,Los Angeles Clippers,LAC,LAC,1610612746,los-angeles-clippers
+25,1983,NBA,San Diego Clippers,SDC,Los Angeles Clippers,LAC,LAC,1610612746,los-angeles-clippers
+26,1977,NBA,Buffalo Braves,BUF,Los Angeles Clippers,LAC,LAC,1610612746,los-angeles-clippers
+27,2019,NBA,Los Angeles Lakers,LAL,Los Angeles Lakers,LAL,LAL,1610612747,los-angeles-lakers
+28,1959,NBA,Minneapolis Lakers,MNL,Los Angeles Lakers,LAL,LAL,1610612747,los-angeles-lakers
+29,2019,NBA,Memphis Grizzlies,MEM,Memphis Grizzlies,MEM,MEM,1610612763,memphis-grizzlies
+30,2000,NBA,Vancouver Grizzlies,VAN,Memphis Grizzlies,MEM,MEM,1610612763,memphis-grizzlies
+31,2019,NBA,Miami Heat,MIA,Miami Heat,MIA,MIA,1610612748,miami-heat
+32,2019,NBA,Milwaukee Bucks,MIL,Milwaukee Bucks,MIL,MIL,1610612749,milwaukee-bucks
+33,2019,NBA,Minnesota Timberwolves,MIN,Minnesota Timberwolves,MIN,MIN,1610612750,minnesota-timberwolves
+34,2019,NBA,New York Knicks,NYK,New York Knicks,NYK,NY,1610612752,new-york-knicks
+35,2019,NBA,New Orleans Pelicans,NOP,New Orleans Pelicans,NOP,NO,1610612740,new-orleans-pelicans
+36,2012,NBA,New Orleans Hornets,NOH,New Orleans Pelicans,NOP,NO,1610612740,new-orleans-pelicans
+37,2006,NBA,New Orleans/Oklahoma City Hornets,NOK,New Orleans Pelicans,NOP,NO,1610612740,new-orleans-pelicans
+38,2019,NBA,Oklahoma City Thunder,OKC,Oklahoma City Thunder,OKC,OKC,1610612760,oklahoma-city-thunder
+39,2007,NBA,Seattle SuperSonics,SEA,Oklahoma City Thunder,OKC,OKC,1610612760,oklahoma-city-thunder
+40,2019,NBA,Orlando Magic,ORL,Orlando Magic,ORL,ORL,1610612753,orlando-magic
+41,2019,NBA,Philadelphia 76ers,PHI,Philadelphia 76ers,PHI,PHI,1610612755,philadelphia-76ers
+42,1962,NBA,Syracuse Nationals,SYR,Philadelphia 76ers,PHI,PHI,1610612755,philadelphia-76ers
+43,2019,NBA,Phoenix Suns,PHO,Phoenix Suns,PHO,PHX,1610612756,phoenix-suns
+44,2019,NBA,Portland Trail Blazers,POR,Portland Trail Blazers,POR,POR,1610612757,portland-trail-blazers
+45,2019,NBA,San Antonio Spurs,SAS,San Antonio Spurs,SAS,SA,1610612759,san-antonio-spurs
+46,1972,ABA,Dallas Chaparrals,DLC,San Antonio Spurs,SAS,SA,1610612759,san-antonio-spurs
+47,2019,NBA,Sacramento Kings,SAC,Sacramento Kings,SAC,SAC,1610612758,sacramento-kings
+48,1984,NBA,Kansas City Kings,KCK,Sacramento Kings,SAC,SAC,1610612758,sacramento-kings
+49,1974,NBA,Kansas City-Omaha Kings,KCO,Sacramento Kings,SAC,SAC,1610612758,sacramento-kings
+50,1971,NBA,Cincinnati Royals,CIN,Sacramento Kings,SAC,SAC,1610612758,sacramento-kings
+51,1956,NBA,Rochester Royals,ROC,Sacramento Kings,SAC,SAC,1610612758,sacramento-kings
+52,2019,NBA,Toronto Raptors,TOR,Toronto Raptors,TOR,TOR,1610612761,toronto-raptors
+53,2019,NBA,Utah Jazz,UTA,Utah Jazz,UTA,UTAH,1610612762,utah-jazz
+54,1978,NBA,New Orleans Jazz,NOJ,Utah Jazz,UTA,UTAH,1610612762,utah-jazz
+55,2019,NBA,Washington Wizards,WAS,Washington Wizards,WAS,WSH,1610612764,washington-wizards
+56,1996,NBA,Washington Bullets,WSB,Washington Wizards,WAS,WSH,1610612764,washington-wizards
+57,1973,NBA,Capital Bullets,CAP,Washington Wizards,WAS,WSH,1610612764,washington-wizards
+58,1972,NBA,Baltimore Bullets,BAL,Washington Wizards,WAS,WSH,1610612764,washington-wizards
+59,1962,NBA,Chicago Zephyrs,CHZ,Washington Wizards,WAS,WSH,1610612764,washington-wizards
+60,1961,NBA,Chicago Packers,CHP,Washington Wizards,WAS,WSH,1610612764,washington-wizards
