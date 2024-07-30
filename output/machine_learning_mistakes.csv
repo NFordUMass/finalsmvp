@@ -14,7 +14,7 @@
 12,2005,San Antonio Spurs,Tim Duncan,Tim Duncan,True,0.13,2,0.0,False
 13,2005,San Antonio Spurs,Tim Duncan,Manu GinÃ³bili,False,0.97,1,1.0,False
 14,2004,Detroit Pistons,Chauncey Billups,Richard Hamilton,False,0.92,2,1.0,False
-15,2001,Los Angeles Lakers,Shaquille O'Neal,Kobe Bryant,False,0.6,1,1.0,False
+15,2001,Los Angeles Lakers,Shaquille O'Neal,Kobe Bryant,False,0.6,2,1.0,False
 16,1998,Chicago Bulls,Michael Jordan,Michael Jordan,True,0.06,3,0.0,False
 17,1997,Chicago Bulls,Michael Jordan,Scottie Pippen,False,0.86,2,1.0,False
 18,1991,Chicago Bulls,Michael Jordan,Scottie Pippen,False,0.56,2,1.0,False
@@ -30,7 +30,7 @@
 28,1979,Seattle SuperSonics,Dennis Johnson,Jack Sikma,False,0.87,1,1.0,False
 29,1978,Washington Bullets,Wes Unseld,Elvin Hayes,False,0.8,1,1.0,False
 30,1978,Washington Bullets,Wes Unseld,Bob Dandridge,False,0.55,2,1.0,False
-31,1978,Washington Bullets,Wes Unseld,Wes Unseld,True,0.0,3,0.0,False
+31,1978,Washington Bullets,Wes Unseld,Wes Unseld,True,0.0,7,0.0,False
 32,1977,Portland Trail Blazers,Bill Walton,Bob Gross,False,0.84,2,1.0,False
 33,1976,Boston Celtics,Jo Jo White,Dave Cowens,False,1.0,1,1.0,False
 34,1974,Boston Celtics,John Havlicek,Jo Jo White,False,0.62,2,1.0,False
