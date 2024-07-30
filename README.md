@@ -10,6 +10,10 @@
 
 [output](output) contains several csvs created at different key points of the notebook.
 
+[tableau](tableau) shows some of the output I was able to visualize.
+
+[tableau](tableau/predictions_cropped.png)
+
 #### What does not
 
 [csvs](csvs) contains, well, csvs, of the cumulative series box scores for each finals winning team.
