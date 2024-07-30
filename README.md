@@ -12,7 +12,7 @@
 
 [tableau](tableau) shows some of the output I was able to visualize.
 
-<img src="/tableau/predictions_cropped.png" alt="Predictions Cropped" style="width:100%;height:100%; padding-top:10px"> <br>
+<img src="/tableau/predictions_crop.png" alt="Predictions Cropped" style="width:100%;height:100%; padding-top:10px"> <br>
 
 #### What does not
 
