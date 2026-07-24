@@ -1,6 +1,7 @@
 import { useState } from "react";
 import type { Candidate, ViewMode, YearRow } from "@/types/finals";
 import { playerImageUrl } from "@/lib/playerImage";
+import { useStandingsColSpan } from "./useStandingsColSpan";
 
 interface Props {
   row: YearRow;
@@ -49,6 +50,7 @@ function seriesResult(row: YearRow): string | null {
 
 export default function ExpandedRow({ row, view }: Props) {
   const [showAll, setShowAll] = useState(false);
+  const colSpan = useStandingsColSpan();
   const disagree = !row.correct;
   const hasMore = row.candidates.length > DEFAULT_VISIBLE;
   const visible = showAll
@@ -59,7 +61,7 @@ export default function ExpandedRow({ row, view }: Props) {
 
   return (
     <tr id={`expanded-${row.year}`} className="bg-neutral-50">
-      <td colSpan={5} className="px-3 py-4 md:px-5">
+      <td colSpan={colSpan} className="px-3 py-4 md:px-5">
         <div className="flex flex-col gap-4">
           <div className="flex flex-col md:flex-row md:items-start gap-3 md:gap-6">
             <div className="flex items-center gap-3 shrink-0">
@@ -115,18 +117,10 @@ export default function ExpandedRow({ row, view }: Props) {
                   <th className="py-2 px-1 font-semibold text-right">PTS</th>
                   <th className="py-2 px-1 font-semibold text-right">TRB</th>
                   <th className="py-2 px-1 font-semibold text-right">AST</th>
-                  <th className="py-2 px-1 font-semibold text-right hidden sm:table-cell">
-                    USG%
-                  </th>
-                  <th className="py-2 px-1 font-semibold text-right hidden md:table-cell">
-                    NetRtg
-                  </th>
-                  <th className="py-2 px-1 font-semibold text-right hidden lg:table-cell">
-                    FG%
-                  </th>
-                  <th className="py-2 pl-1 font-semibold text-right hidden lg:table-cell">
-                    MP
-                  </th>
+                  <th className="py-2 px-1 font-semibold text-right">USG%</th>
+                  <th className="py-2 px-1 font-semibold text-right">NetRtg</th>
+                  <th className="py-2 px-1 font-semibold text-right">FG%</th>
+                  <th className="py-2 pl-1 font-semibold text-right">MP</th>
                 </tr>
               </thead>
               <tbody>
@@ -179,16 +173,16 @@ export default function ExpandedRow({ row, view }: Props) {
                       <td className="py-2 px-1 text-right tabular-nums">
                         {fmt(c.stats.AST)}
                       </td>
-                      <td className="py-2 px-1 text-right tabular-nums hidden sm:table-cell">
+                      <td className="py-2 px-1 text-right tabular-nums">
                         {fmt(c.stats["USG%"], 1)}
                       </td>
-                      <td className="py-2 px-1 text-right tabular-nums hidden md:table-cell">
+                      <td className="py-2 px-1 text-right tabular-nums">
                         {fmt(c.stats.NetRtg, 1)}
                       </td>
-                      <td className="py-2 px-1 text-right tabular-nums hidden lg:table-cell">
+                      <td className="py-2 px-1 text-right tabular-nums">
                         {fmtPct(c.stats["FG%"])}
                       </td>
-                      <td className="py-2 pl-1 text-right tabular-nums hidden lg:table-cell">
+                      <td className="py-2 pl-1 text-right tabular-nums">
                         {fmt(c.stats.MP)}
                       </td>
                     </tr>

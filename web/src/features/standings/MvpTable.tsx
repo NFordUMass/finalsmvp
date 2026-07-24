@@ -3,6 +3,7 @@ import type { SortKey, ViewMode, YearRow } from "@/types/finals";
 import ControlButton from "@/ui/ControlButton";
 import { sortRows, toggleSort } from "@/lib/sort";
 import Row from "./Row";
+import { useStandingsColSpan } from "./useStandingsColSpan";
 
 const PAGE_SIZE = 15;
 
@@ -39,6 +40,7 @@ export default function MvpTable({ view, groupBy, source }: Props) {
   });
   const [expanded, setExpanded] = useState("");
   const [page, setPage] = useState(1);
+  const colSpan = useStandingsColSpan();
 
   useEffect(() => {
     const next = sortRows(source, "year", "desc", view);
@@ -142,7 +144,7 @@ export default function MvpTable({ view, groupBy, source }: Props) {
             {pageRows.length === 0 ? (
               <tr>
                 <td
-                  colSpan={5}
+                  colSpan={colSpan}
                   className="px-1 py-8 text-center text-sm md:text-base text-neutral-500"
                 >
                   No results

@@ -30,7 +30,7 @@ const featureN = data.featureN ?? null;
           id="standings-heading"
           class="my-2 text-xl md:text-2xl lg:text-3xl text-center font-bold"
         >
-          Finals MVP*
+          Model Predictions
         </h2>
         <p class="text-center text-sm md:text-base text-white/65 mb-2">
           {correct}/{data.years.length} years where the model matched the award ({
@@ -55,7 +55,8 @@ const featureN = data.featureN ?? null;
           id="how-it-works-heading"
           class="my-2 text-xl md:text-2xl lg:text-3xl text-center font-bold"
         >
-          How It Works
+          <span class="md:hidden">Finals MVP*</span>
+          <span class="hidden md:inline">How It Works</span>
         </h2>
         <HowItWorks
           client:load
